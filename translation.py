@@ -34,9 +34,9 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
-Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..
+Plan name: Free
+Expires on: 31/12/2022"""
+    HELP_USER = """Hai am TA URL Uploader Bot..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -46,7 +46,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+<b> Buy Source Code :</b>  <a href="https://t.me/TaRe8A7MeD">Call Me</a>
 
 --------
 Send /me to know current plan details
